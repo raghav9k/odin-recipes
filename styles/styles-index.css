@@ -1,0 +1,29 @@
+*{
+    background-color:lightblue ;
+}
+.title{
+    background-color: rgb(250, 215, 215);
+    border-style: inset;
+    border-radius: 1cm;
+    border-width: 5px;
+    border-color: burlywood;
+}
+
+#Title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+    font-weight:bolder;
+    background-color: aquamarine;
+    background-blend-mode: lighten;
+    border-style: solid;
+    border-left: 0ch;
+    border-right: 0ch;
+    border-collapse: collapse;
+}
+.recipes{
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
